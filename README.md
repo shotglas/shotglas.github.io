@@ -1,3 +1,3 @@
 # Shotglas Co.
 
-Xavier is an idiot! 😁
+## Xavier is an idiot! 😁
