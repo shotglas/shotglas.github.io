@@ -1,1 +1,3 @@
-# shotglas.github.io
+# Shotglas Co.
+
+Xavier is an idiot! 😁
